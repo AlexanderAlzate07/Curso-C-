@@ -1,0 +1,16 @@
+C:\Users\alexander.alzate\OneDrive - One Link S.A. de C.V\Documentos\Alex\Cursos\C#\MyFirtsProgram\bin\Debug\net5.0\MyFirtsProgram.exe
+C:\Users\alexander.alzate\OneDrive - One Link S.A. de C.V\Documentos\Alex\Cursos\C#\MyFirtsProgram\bin\Debug\net5.0\MyFirtsProgram.deps.json
+C:\Users\alexander.alzate\OneDrive - One Link S.A. de C.V\Documentos\Alex\Cursos\C#\MyFirtsProgram\bin\Debug\net5.0\MyFirtsProgram.runtimeconfig.json
+C:\Users\alexander.alzate\OneDrive - One Link S.A. de C.V\Documentos\Alex\Cursos\C#\MyFirtsProgram\bin\Debug\net5.0\MyFirtsProgram.runtimeconfig.dev.json
+C:\Users\alexander.alzate\OneDrive - One Link S.A. de C.V\Documentos\Alex\Cursos\C#\MyFirtsProgram\bin\Debug\net5.0\MyFirtsProgram.dll
+C:\Users\alexander.alzate\OneDrive - One Link S.A. de C.V\Documentos\Alex\Cursos\C#\MyFirtsProgram\bin\Debug\net5.0\ref\MyFirtsProgram.dll
+C:\Users\alexander.alzate\OneDrive - One Link S.A. de C.V\Documentos\Alex\Cursos\C#\MyFirtsProgram\bin\Debug\net5.0\MyFirtsProgram.pdb
+C:\Users\alexander.alzate\OneDrive - One Link S.A. de C.V\Documentos\Alex\Cursos\C#\MyFirtsProgram\obj\Debug\net5.0\MyFirtsProgram.csproj.AssemblyReference.cache
+C:\Users\alexander.alzate\OneDrive - One Link S.A. de C.V\Documentos\Alex\Cursos\C#\MyFirtsProgram\obj\Debug\net5.0\MyFirtsProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexander.alzate\OneDrive - One Link S.A. de C.V\Documentos\Alex\Cursos\C#\MyFirtsProgram\obj\Debug\net5.0\MyFirtsProgram.AssemblyInfoInputs.cache
+C:\Users\alexander.alzate\OneDrive - One Link S.A. de C.V\Documentos\Alex\Cursos\C#\MyFirtsProgram\obj\Debug\net5.0\MyFirtsProgram.AssemblyInfo.cs
+C:\Users\alexander.alzate\OneDrive - One Link S.A. de C.V\Documentos\Alex\Cursos\C#\MyFirtsProgram\obj\Debug\net5.0\MyFirtsProgram.csproj.CoreCompileInputs.cache
+C:\Users\alexander.alzate\OneDrive - One Link S.A. de C.V\Documentos\Alex\Cursos\C#\MyFirtsProgram\obj\Debug\net5.0\MyFirtsProgram.dll
+C:\Users\alexander.alzate\OneDrive - One Link S.A. de C.V\Documentos\Alex\Cursos\C#\MyFirtsProgram\obj\Debug\net5.0\ref\MyFirtsProgram.dll
+C:\Users\alexander.alzate\OneDrive - One Link S.A. de C.V\Documentos\Alex\Cursos\C#\MyFirtsProgram\obj\Debug\net5.0\MyFirtsProgram.pdb
+C:\Users\alexander.alzate\OneDrive - One Link S.A. de C.V\Documentos\Alex\Cursos\C#\MyFirtsProgram\obj\Debug\net5.0\MyFirtsProgram.genruntimeconfig.cache
